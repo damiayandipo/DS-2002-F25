@@ -1,0 +1,50 @@
+[
+  {
+    "course_id": "DS2002",
+    "section": "001",
+    "title": "Data Science Systems",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Austin Rivera",
+        "role": "Primary"
+      },
+      {
+        "name": "Heywood Williams-Tracy",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "DS3003",
+    "section": "001",
+    "title": "Machine Learning Fundamentals",
+    "level": 300,
+    "instructors": [
+      {
+        "name": "Sarah Chen",
+        "role": "Primary"
+      },
+      {
+        "name": "Alex Johnson",
+        "role": "TA"
+      },
+      {
+        "name": "Maria Garcia",
+        "role": "Grader"
+      }
+    ]
+  },
+  {
+    "course_id": "STAT2020",
+    "section": "002",
+    "title": "Probability and Statistical Inference",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Robert Wilson",
+        "role": "Primary"
+      }
+    ]
+  }
+]
